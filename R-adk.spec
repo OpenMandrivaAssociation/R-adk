@@ -51,3 +51,31 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/Meta
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/help
+
+
+%changelog
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0_1-1
++ Revision: 774828
+- Update and rebuild with R2spec
+- Update and rebuild with R2spec
+
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 1.0-6mdv2011.0
++ Revision: 616447
+- the mass rebuild of 2010.0 packages
+
+* Tue Sep 08 2009 Thierry Vignaud <tv@mandriva.org> 1.0-5mdv2010.0
++ Revision: 433073
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tv@mandriva.org> 1.0-4mdv2009.0
++ Revision: 260122
+- rebuild
+- rebuild
+
+* Sun Feb 17 2008 Tomasz Pawel Gajc <tpg@mandriva.org> 1.0-1mdv2008.1
++ Revision: 170023
+- complete spec file
+- fix Url
+- add source and spec file
+- Created package structure for R-cran-adk.
+
