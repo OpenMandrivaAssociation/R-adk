@@ -2,13 +2,13 @@
 %global rlibdir  %{_datadir}/R/library
 
 Name:             R-%{packname}
-Version:          1.0_1
-Release:          2
+Version:          1.0_2
+Release:          1
 Summary:          Anderson-Darling K-Sample Test and Combinations of Such Tests
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/Archive/%{packname}/%{packname}_1.0-1.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/%{packname}_1.0-2.tar.gz
 BuildArch:        noarch
 Requires:         R-core
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
