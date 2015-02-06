@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0_2
-Release:          1
+Release:          2
 Summary:          Anderson-Darling K-Sample Test and Combinations of Such Tests
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
